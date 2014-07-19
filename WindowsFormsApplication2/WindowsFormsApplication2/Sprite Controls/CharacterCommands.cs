@@ -31,4 +31,5 @@ namespace WindowsFormsApplication2
             
         }
     }
+    var test;
 }
